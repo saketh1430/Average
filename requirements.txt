@@ -1,0 +1,6 @@
+streamlit==1.17.0
+streamlit-authenticator==0.2.1
+streamlit-option-menu==0.3.2
+extra-streamlit-components==0.1.55
+pandas==1.4.2
+numpy==1.22.3
